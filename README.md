@@ -9,6 +9,11 @@ Tech Team:
 ## Project Status
 This project was developed as part of Texas Convergent's build teams which is a semester-long competition. While there are still a lot of features that could be added, given the time constraints, the features implemented are the ones that were presented. There are no further plans to continue building this project.
 
+Key Features:
+- CRUD operations for events
+- Event interaction features (Song requests/upvote system, RSVP/attendance check, event ratings)
+- Account setup (email, phone number, etc.)
+
 # Demo Video
 https://github.com/VarKal23/Conviv/assets/92049401/9f6b6c93-917a-4461-aab5-236a4d82669e
 
